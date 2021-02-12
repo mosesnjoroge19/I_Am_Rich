@@ -1,0 +1,4 @@
+#Sat Feb 13 01:06:25 EAT 2021
+base.0=/home/mozes/AndroidStudioProjects/i_am_rich/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
